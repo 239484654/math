@@ -1,1 +1,1 @@
-这是一个计算器
+This is a simple calculator
