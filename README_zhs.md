@@ -2,4 +2,4 @@
 
 [英文版](./README.md)
 
-这是一个可以让 Windows 10 运行 WSA (Windows Subsystem for Android) 的补丁及其使用方法。
+这是一个简单的计算器。 引用：https://github.com/microsoft/cascadia-code/releases https://github.com/Microsoft/calculator
