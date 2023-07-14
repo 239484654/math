@@ -1,4 +1,4 @@
-# 适用于 Windows 10 的 WSA 补丁
+# 适用于 Windows 的简单计算器
 
 [英文版](./README.md)
 
