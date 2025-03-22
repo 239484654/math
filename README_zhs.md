@@ -1,11 +1,5 @@
 # 适用于 Windows 的简单计算器
 
-[英文版](./README.md)
-
-这是一个简单的计算器。<br>
-引用：https://github.com/microsoft/cascadia-code/releases 和 https://github.com/Microsoft/calculator
-# 适用于 Windows 的简单计算器 说明文档
-
 ## 简介
 本计算器是一个简单的桌面应用程序，旨在为用户提供基本的计算功能。它借鉴了部分开源项目的设计理念和思路，具有简洁易用的特点。
 
